@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_ko_padding_half">6dp</dimen>
+    <dimen name="icon_ko_padding">12dp</dimen>
+    <dimen name="icon_ko_padding_double">24dp</dimen>
+
+    <dimen name="standard_padding_double">32dp</dimen>
+    <dimen name="standard_padding">16dp</dimen>
+    <dimen name="border_padding">20dp</dimen>
+    <dimen name="standard_padding_half">8dp</dimen>
+    <dimen name="divider_thickness">26dp</dimen>
+</resources>
